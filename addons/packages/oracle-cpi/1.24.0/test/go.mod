@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.19.0
-	github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20220719194118-acad8989e4c1
+	github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20230228060452-fe3d3e73fac7
 )
 
 require (

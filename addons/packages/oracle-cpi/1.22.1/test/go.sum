@@ -49,6 +49,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20220719194118-acad8989e4c1 h1:Nr3JyxtsjM7lvmYk2Yy7I5K+rbQmLg5691WumpxBW8k=
 github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20220719194118-acad8989e4c1/go.mod h1:VZN6KjH0ZcekaMDiVNWNyq+WjfB2v5Ve5cP3XvlsDzA=
+github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20230228060452-fe3d3e73fac7 h1:02s3Hce47bT6spWGgmj37hqc0x8xWcLHlQgpxjtDUA0=
+github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20230228060452-fe3d3e73fac7/go.mod h1:VZN6KjH0ZcekaMDiVNWNyq+WjfB2v5Ve5cP3XvlsDzA=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=

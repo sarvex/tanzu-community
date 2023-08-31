@@ -6,7 +6,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.18.1
 	github.com/vmware-tanzu/community-edition/addons/packages/test/matchers v0.0.0-00010101000000-000000000000
-	github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-00010101000000-000000000000
+	github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-20230228060452-fe3d3e73fac7
 	k8s.io/api v0.24.1
 	k8s.io/cloud-provider-vsphere v1.24.3
 	sigs.k8s.io/yaml v1.3.0
@@ -33,7 +33,7 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apimachinery v0.24.1 // indirect
 	k8s.io/klog/v2 v2.60.1 // indirect
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9 // indirect
