@@ -335,6 +335,8 @@ github.com/cppforlife/go-cli-ui v0.0.0-20200506005011-4268990983cc/go.mod h1:I0q
 github.com/cppforlife/go-cli-ui v0.0.0-20200716203538-1e47f820817f/go.mod h1:L18TqO77ci8i+hFtlMC4zSFz/D3O8lf84TyVU+zFF8E=
 github.com/cppforlife/go-cli-ui v0.0.0-20220428182907-73db60c7611a h1:iJlI52aykDztyxFnESp3BVwHJi9Pu8Z9s1Ftb5mb4j0=
 github.com/cppforlife/go-cli-ui v0.0.0-20220428182907-73db60c7611a/go.mod h1:SYJ98tNNvI/6pSCbovi32IFglhBXDkc27I8nqq9nGK8=
+github.com/cppforlife/go-cli-ui v0.0.0-20220622150351-995494831c6c h1:Au0iPWQ6E8TMil9HiGW/DI4CBttUpBOZWkzgqwq+PLg=
+github.com/cppforlife/go-cli-ui v0.0.0-20220622150351-995494831c6c/go.mod h1:ci7nWkU0g40w486NlpUpXXpTD3pkOBjH090Uc0wpER4=
 github.com/cpuguy83/go-md2man v1.0.10/go.mod h1:SmD6nW6nTyfqj6ABTjUi3V3JVMnlJmwcJI5acqYI6dE=
 github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=
 github.com/cpuguy83/go-md2man/v2 v2.0.0/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=
