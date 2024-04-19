@@ -182,4 +182,4 @@ require (
 
 replace sigs.k8s.io/cluster-api => sigs.k8s.io/cluster-api v1.0.1
 
-replace github.com/k14s/kbld => github.com/anujc25/carvel-kbld v0.31.0-update-vendir
+replace github.com/k14s/kbld => github.com/anujc25/carvel-kbld v0.31.0

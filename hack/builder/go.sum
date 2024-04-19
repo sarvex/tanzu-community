@@ -222,6 +222,7 @@ github.com/antihax/optional v0.0.0-20180407024304-ca021399b1a6/go.mod h1:V8iCPQY
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/anujc25/carvel-kbld v0.31.0-update-vendir h1:LwCvemtOEL/Wu2PU81QrGOz6rviowyxIcLaKUTQy99o=
 github.com/anujc25/carvel-kbld v0.31.0-update-vendir/go.mod h1:lH2XPzGdtAE116wvAErCQBlpythNBUlLKFL1EeW/Ro8=
+github.com/anujc25/carvel-kbld v0.31.0/go.mod h1:iFBNYZXJ10fQBn8oorwfplQev2JEnZY9qmwtEEmse+8=
 github.com/apache/thrift v0.12.0/go.mod h1:cp2SuWMxlEZw2r+iP2GNCdIi4C1qmUzdZFSVb+bacwQ=
 github.com/apex/log v1.1.4/go.mod h1:AlpoD9aScyQfJDVHmLMEcx4oU6LqzkWp4Mg9GdAcEvQ=
 github.com/apex/log v1.3.0/go.mod h1:jd8Vpsr46WAe3EZSQ/IUMs2qQD/GOycT5rPWCO1yGcs=
@@ -1534,6 +1535,7 @@ github.com/vmware-tanzu/carvel-kapp-controller v0.25.0 h1:/weI9nz749qwKFD/QGITlx
 github.com/vmware-tanzu/carvel-kapp-controller v0.25.0/go.mod h1:K4/0xokQUQblJCOpeZ/Wx9eSGnSkN37XbvPf3w5Pf/w=
 github.com/vmware-tanzu/carvel-secretgen-controller v0.5.0 h1:3mSDyzhf52Y0jdvHrhJUf4Sk97CILBOkQt/WUaD8G/8=
 github.com/vmware-tanzu/carvel-secretgen-controller v0.5.0/go.mod h1:UW9xzccG6vjNoq2emVderTX11epILNyxtmGxFupRsHc=
+github.com/vmware-tanzu/carvel-vendir v0.22.0/go.mod h1:vCzgI/0AqEYKkYN2kexIB1jypItz60sAqvkF7NbqvGw=
 github.com/vmware-tanzu/carvel-vendir v0.23.0 h1:7tn0D14nxpYQS4SPRqOGp0ePKAgikYw786YtqmRWJas=
 github.com/vmware-tanzu/carvel-vendir v0.23.0/go.mod h1:l35I00eXhYiIaZdOPeGX/zrj0WGfimSSqj81PrxGpAw=
 github.com/vmware-tanzu/tanzu-framework v0.11.4 h1:xHFgKblafizbYksIDEw0bul2qFMzj+tSHW4/a/gCMZc=
