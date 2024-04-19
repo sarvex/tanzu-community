@@ -8,7 +8,7 @@ require (
 	github.com/vmware-labs/yaml-jsonpath v0.3.2
 	github.com/vmware-tanzu/community-edition/addons/packages/test/matchers v0.0.0-00010101000000-000000000000
 	github.com/vmware-tanzu/community-edition/addons/packages/test/pkg v0.0.0-00010101000000-000000000000
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
