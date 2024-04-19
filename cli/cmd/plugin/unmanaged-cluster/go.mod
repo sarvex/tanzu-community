@@ -27,7 +27,7 @@ require (
 	github.com/vmware-tanzu/carvel-kapp-controller v0.38.4
 	github.com/vmware-tanzu/carvel-kbld v0.34.0
 	github.com/vmware-tanzu/carvel-vendir v0.30.0
-	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171
+	golang.org/x/term v0.18.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.24.4
@@ -87,11 +87,11 @@ require (
 	github.com/vbatts/tar-split v0.11.2 // indirect
 	github.com/vito/go-interact v1.0.1 // indirect
 	github.com/vmware-tanzu/carvel-imgpkg v0.28.0 // indirect
-	golang.org/x/net v0.0.0-20220708220712-1185a9018129 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220718184931-c8730f7fcb92 // indirect
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f // indirect
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
