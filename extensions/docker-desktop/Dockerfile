@@ -19,7 +19,7 @@ FROM ${TANZU_CLI_IMAGE} as tanzu-cli
 FROM ${APPS_BIN_IMAGE}  as apps-bin
 FROM ${CLIENT_IMAGE} as client-builder
 # See latest tags at https://github.com/kubernetes/k8s.io/blob/main/k8s.gcr.io/images/k8s-staging-kubernetes/images.yaml
-FROM k8s.gcr.io/pause:3.7 as pause
+FROM registry.k8s.io/pause:3.7 as pause
 
 
 #-----------------------------
