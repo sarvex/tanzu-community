@@ -3,7 +3,7 @@ module github.com/vmware-tanzu/community-edition/extensions/docker-desktop
 go 1.17
 
 require (
-	github.com/docker/docker v20.10.24+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/juju/fslock v0.0.0-20160525022230-4d5c94c67b4b
 	github.com/sirupsen/logrus v1.8.1
 	github.com/vmware-tanzu/community-edition/cli/cmd/plugin/unmanaged-cluster v0.0.0-20220607164142-9853e16163cb
