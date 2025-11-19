@@ -1,6 +1,6 @@
 module github.com/vmware-tanzu/community-edition/hack/runner/webhook
 
-go 1.17
+go 1.24.0
 
 require (
 	github.com/aws/aws-sdk-go v1.44.126
@@ -16,8 +16,8 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
-	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
